@@ -42,4 +42,6 @@ PRODUCT_MANUFACTURER := Google
 PRODUCT_BRAND := Android
 PRODUCT_NAME := aosp_walleye
 PRODUCT_DEVICE := walleye
-PRODUCT_MODEL := AOSP on walleye
+PRODUCT_MODEL := Pixel 2
+
+
